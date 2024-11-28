@@ -1,8 +1,6 @@
 
 ## Problem 1: Valid Word Count in a String
 
-## Problem 2: Rolling String Operations
-
 ### 3. Shopkeeper Sale
 - Description and solution for problems related to sales transactions and calculations.
 
@@ -47,3 +45,5 @@
 
 ### 17. Odd Even Jump
 - Given an array of integers, determine if it's possible to reach the end of the array by jumping in an odd-even sequence.
+
+## Problem 2: Rolling String Operations
